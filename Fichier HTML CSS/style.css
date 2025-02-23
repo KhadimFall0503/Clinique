@@ -97,7 +97,7 @@ h1 {
 }
 .x::before {
     content: "";
-    background: url('clini.jpg') no-repeat center center/cover;
+    background: url('../Photos/clini.jpg') no-repeat center center/cover;
     opacity: 0.6;
     position: absolute;
     top: 0;
