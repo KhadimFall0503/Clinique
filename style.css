@@ -1,0 +1,125 @@
+body {
+    background-color: #f9f9f9;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+}
+.xl {
+    font-size: 1.2rem;
+}
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-semibold {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+}
+.navbar-nav .nav-link:hover {
+    border-bottom: 2px solid #4d79f1;
+}
+.wk {
+    width: 610px;
+    height: 40px;
+    padding: 6px;
+    margin: auto auto;
+    font-size: 1.3rem;
+}
+.ff {
+    width: 450px;
+    height: 450px;
+    border: 3px solid #4d79f1;
+}
+.fw {
+    font-weight: 500;
+}
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+}
+h1 {
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.e {
+    border: 2px solid rgb(77, 121, 241);
+    box-shadow: 1px 1px 1px black;
+}
+.fl {
+    font-weight: 600;
+}
+.a1 {
+    color: #76C776;
+}
+.a2 {
+    width: 480px;
+    height: 400px;
+}
+.h {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 25px;
+}
+.v {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 25px;
+}
+.h .image1 {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0;
+    position: absolute;
+    bottom: -80px;
+}
+.x {
+    position: relative;
+    z-index: 1;
+}
+.x::before {
+    content: "";
+    background: url('clini.jpg') no-repeat center center/cover;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.f {
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: auto auto;
+}
+.fo {
+    font-size: 1.6rem;
+}
+
+
+
+
+
+
+
+
