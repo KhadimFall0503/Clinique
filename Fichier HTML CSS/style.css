@@ -7,6 +7,12 @@ body {
 .xl {
     font-size: 1.2rem;
 }
+.e{
+    background-color: rgba(10, 51, 128, 1);
+}
+.ex{
+    color: rgba(10, 51, 128, 1);
+}
 .poppins-regular {
     font-family: "Poppins", serif;
     font-weight: 400;
@@ -21,10 +27,10 @@ a {
     text-decoration: none;
 }
 .navbar-nav .nav-link:hover {
-    border-bottom: 2px solid #4d79f1;
+    border-bottom: 2px solid rgba(10, 51, 128, 1);
 }
 .wk {
-    width: 610px;
+    width: 510px;
     height: 40px;
     padding: 6px;
     margin: auto auto;
@@ -33,7 +39,7 @@ a {
 .ff {
     width: 450px;
     height: 450px;
-    border: 3px solid #4d79f1;
+    border: 3px solid rgba(10, 51, 128, 1);
 }
 .fw {
     font-weight: 500;
@@ -41,6 +47,7 @@ a {
 .logo {
     font-size: 2rem;
     font-weight: bold;
+    color: rgba(10, 51, 128, 1);
 }
 h1 {
     font-size: 35px;
@@ -71,6 +78,7 @@ h1 {
     justify-content: center;
     position: relative;
     bottom: 25px;
+    background-color: rgba(10, 51, 128, 1);
 }
 .v {
     border-radius: 50%;
@@ -98,7 +106,7 @@ h1 {
 .x::before {
     content: "";
     background: url('../Photos/clini.jpg') no-repeat center center/cover;
-    opacity: 0.6;
+    opacity: 0.3;
     position: absolute;
     top: 0;
     left: 0;
@@ -106,6 +114,57 @@ h1 {
     bottom: 0;
     z-index: -1;
 }
+.df{
+    width: 550px;
+    margin-left: 10px;
+    height: 250px;
+}
+.ds{
+    font-size: 1.6rem;
+}
+.heure{
+    width: 100px;
+    display: block;
+    margin: auto auto;
+}
+.mls{
+    background-color: #f4f4f4;
+}
+.cx{
+    background: url('../Photos/nice.jpg') no-repeat center center/cover;
+    margin-top: 45px;
+    height: 100vh;
+    width: 100%;
+    
+}
+.cf{
+    background: url('../Photos/urgences.jpg') no-repeat center center/cover;
+    margin-top: 45px;
+    height: 100vh;
+    width: 100%;
+}
+.mm{
+    margin-right: 75px;
+    
+}
+.mk{
+    width: 420px;
+    border-radius: 10px;
+    height: 510px;
+    background-color: rgba(10, 51, 128, 1);
+}
+.mv{
+    width: 420px;
+    border-radius: 10px;
+    height: 510px;
+    background-color: white;
+}
+.tt{
+    color:rgba(10, 51, 128, 1); ;
+}
+
+
+
 .f {
     width: 100px;
     border-radius: 50%;
