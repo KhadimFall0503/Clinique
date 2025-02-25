@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 0;
 }
-.x {
-    position: relative;
-    z-index: 1;
-}
 .poppins-regular {
     font-family: "Poppins", serif;
     font-weight: 400;
@@ -18,9 +14,13 @@ body {
     font-weight: 600;
     font-style: normal;
 }
+.x {
+    position: relative;
+    z-index: 1;
+}
 .x::before {
     content: "";
-    background: url('../Photos/gal.jpg') no-repeat center center/cover;
+    background: url('../Photos/partenaire-Entreprise.jpg') no-repeat center center/cover;
     opacity: 1;
     position: absolute;
     top: 0;
@@ -31,7 +31,8 @@ body {
     height: 50vh;
 }
 .xc{
-    padding-top: 130px;
+    padding-top: 145px;
+    letter-spacing: 2px;
 }
 .e{
     background-color: rgba(10, 51, 128, 1);
@@ -54,16 +55,4 @@ body {
 .em{
     color: rgba(10, 51, 128, 1);
 }
-.direction{
-    padding-top: 205px;
-}
-hr{
-    font-size: 2rem;
-    font-weight: 600;
-}
-.mi{
-    width: 350px;
-    height: 280px;
-    border: 2px dotted rgba(10, 51, 128, 1);
-    box-shadow: 1px 1px 1px black;
-}
+

@@ -1,8 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: #f9f9f9;
     height: 300px;
-    margin: 0;
-    padding: 0;
+    overflow-x: hidden;
+}
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-semibold {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
 }
 .x {
     position: relative;
@@ -22,6 +36,7 @@ body {
 }
 .xc{
     padding-top: 130px;
+    letter-spacing: 2px;
 }
 .e{
     background-color: rgba(10, 51, 128, 1);
