@@ -48,8 +48,12 @@ a{
     background-color: rgba(10, 51, 128, 1);
 }
 .ev{
-    width: 180px;
+    width: 160px;
     background-color: rgba(10, 51, 128, 1);
+}
+.el{
+    color: white;
+    width: 180px;
 }
 .ev:hover{
     background-color: rgba(10, 51, 128, 1);
