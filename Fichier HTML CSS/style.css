@@ -14,8 +14,17 @@ body {
 .xl {
     font-size: 1.2rem;
 }
-.e{
+.e {
     background-color: rgba(10, 51, 128, 1);
+
+}
+.ev{
+    width: 180px;
+    background-color: rgba(10, 51, 128, 1);
+}
+.ev:hover{
+    background-color: rgba(10, 51, 128, 1);
+    opacity: 0.8;
 }
 .ex{
     color: rgba(10, 51, 128, 1);

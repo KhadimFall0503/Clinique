@@ -8,6 +8,9 @@ body {
     height: 300px;
     overflow-x: hidden;
 }
+.mlv{
+    background-color: #f9f9f9;
+}
 .poppins-regular {
     font-family: "Poppins", serif;
     font-weight: 400;
@@ -18,9 +21,18 @@ body {
     font-weight: 600;
     font-style: normal;
 }
+.ev{
+    width: 180px;
+    background-color: rgba(10, 51, 128, 1);
+}
+.ev:hover{
+    background-color: rgba(10, 51, 128, 1);
+    opacity: 0.8;
+}
 .x {
     position: relative;
     z-index: 1;
+    margin-top: 80px;
 }
 .x::before {
     content: "";

@@ -4,6 +4,9 @@ body {
     margin: 0;
     padding: 0;
 }
+.mlv{
+    background-color: #f9f9f9;
+}
 .poppins-regular {
     font-family: "Poppins", serif;
     font-weight: 400;
@@ -17,6 +20,7 @@ body {
 .x {
     position: relative;
     z-index: 1;
+    margin-top: 80px;
 }
 .x::before {
     content: "";
@@ -36,6 +40,14 @@ body {
 }
 .e{
     background-color: rgba(10, 51, 128, 1);
+}
+.ev{
+    width: 180px;
+    background-color: rgba(10, 51, 128, 1);
+}
+.ev:hover{
+    background-color: rgba(10, 51, 128, 1);
+    opacity: 0.8;
 }
 .navbar-nav .nav-link:hover {
     border-bottom: 2px solid rgba(10, 51, 128, 1);
