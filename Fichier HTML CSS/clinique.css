@@ -81,3 +81,6 @@ hr{
     border: 2px dotted rgba(10, 51, 128, 1);
     box-shadow: 1px 1px 1px black;
 }
+.pp{
+    text-align: justify;
+}

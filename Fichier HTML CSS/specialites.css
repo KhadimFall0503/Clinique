@@ -7,6 +7,7 @@ body {
     background-color: #f9f9f9;
     height: 300px;
     overflow-x: hidden;
+    
 }
 .mlv{
     background-color: #f9f9f9;
@@ -40,7 +41,7 @@ body {
 }
 .xc{
     padding-top: 145px;
-    letter-spacing: 2px;
+  
 }
 .e{
     background-color: rgba(10, 51, 128, 1);
@@ -71,8 +72,12 @@ body {
 .em{
     color: rgba(10, 51, 128, 1);
 }
+.pp{
+    text-align: justify;
+}
+
 .mi{
-    width: 350px;
+    width: 380px;
     height: 280px;
     border: 2px dotted rgba(10, 51, 128, 1);
     box-shadow: 1px 1px 1px black;

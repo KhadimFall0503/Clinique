@@ -18,6 +18,30 @@ body {
     background-color: rgba(10, 51, 128, 1);
 
 }
+.ww{
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin: auto auto;
+    padding-top: 2Px;
+    border-radius: 50%;
+    border: 1px solid rgba(10, 51, 128, 1) ;
+}
+.parent .ra{
+    box-shadow: 0px -4px 20px rgba(0, 0, 0, 0.3);
+    width: 370px;
+    height: 350px;
+    background-color: #f9f9f9;
+  
+}
+.parent{
+    gap: 15px;
+    box-shadow: 4px black;
+}
+.mn{
+    text-align: justify;
+}
+
 .ev{
     width: 160px;
     background-color: rgba(10, 51, 128, 1);
