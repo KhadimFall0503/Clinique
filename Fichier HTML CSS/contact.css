@@ -15,7 +15,7 @@ body {
 .x {
     position: relative;
     z-index: 1;
-    margin-top: 80px;
+    margin-top: 10px;
 }
 .poppins-regular {
     font-family: "Poppins", serif;
@@ -74,6 +74,7 @@ a{
 }
 .fw {
     font-weight: 500;
+    font-size: 20px;
 }
 .ex{
     color: rgba(10, 51, 128, 1);
