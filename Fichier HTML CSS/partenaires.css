@@ -20,7 +20,7 @@ body {
 .x {
     position: relative;
     z-index: 1;
-    margin-top: 10px;
+    margin-top: 100px;
 }
 .x::before {
     content: "";

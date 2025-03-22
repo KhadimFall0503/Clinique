@@ -162,7 +162,7 @@ h1 {
 .x {
     position: relative;
     z-index: 1;
-    padding-top: 75px;
+    padding-top: 145px;
 }
 .x::before {
     content: "";
