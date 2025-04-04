@@ -37,7 +37,7 @@ body {
 }
 .x::before {
     content: "";
-    background: url('/Photos/clini.jpg') no-repeat center center/cover;
+    background: url('../Photos/clini.jpg') no-repeat center center/cover;
     opacity: 1;
     position: absolute;
     top: 0;
