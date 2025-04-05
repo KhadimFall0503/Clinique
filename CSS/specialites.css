@@ -18,7 +18,7 @@ body {
 .x {
     position: relative;
     z-index: 1;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .poppins-regular {
     font-family: "Poppins", serif;
