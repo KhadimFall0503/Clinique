@@ -9,6 +9,9 @@ body {
     overflow-x: hidden;
     
 }
+.part{
+    margin-top: 110px;
+}
 .mlv{
     background-color: #f9f9f9;
 }
